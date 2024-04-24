@@ -1,0 +1,7 @@
+pytest
+testcontainers[mongodb]
+testcontainers[redis]
+testcontainers[postgres]
+sqlalchemy
+psycopg2
+factory_boy
